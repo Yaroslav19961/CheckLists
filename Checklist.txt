@@ -1,6 +1,6 @@
-ID: 1
-Title: Availability of the app in the App Store
-ER: The app is available
+ID: 2
+Title: Installing ****** app
+ER: **** app is installed
 Result: Passed
 Bug links: null
 
