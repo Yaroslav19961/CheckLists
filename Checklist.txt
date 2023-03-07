@@ -1,0 +1,6 @@
+ID: 1
+Title: Availability of the app in the App Store
+ER: The app is available
+Result: Passed
+Bug links: null
+
