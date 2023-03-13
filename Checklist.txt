@@ -1,4 +1,4 @@
-D: 2
+ID: 2
 Title: Installing ****** app
 ER: **** app is installed
 Result: Passed
